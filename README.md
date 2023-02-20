@@ -10,10 +10,15 @@ Done
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/1538969/219923517-798d4702-7ff4-4b9c-b8d9-da48f1a934f3.png)
-![image](https://user-images.githubusercontent.com/1538969/219923523-dfe982f9-db89-4d6e-b13e-ce22c33e65e3.png)
-![image](https://user-images.githubusercontent.com/1538969/219923532-3b6d2fd5-cdaf-4c5d-bc45-9b68e5050c50.png)
-![image](https://user-images.githubusercontent.com/1538969/219923564-1620650e-2434-4c84-9b3f-7133edc4c593.png)
+![image](https://user-images.githubusercontent.com/1538969/220077213-0d9342b4-464e-4dfd-8454-f3c80b689a47.png)
+![image](https://user-images.githubusercontent.com/1538969/220077287-176a0291-a471-4925-a79b-726e5536ba68.png)
+![image](https://user-images.githubusercontent.com/1538969/220077403-e08ab137-5c34-427d-a1c5-1b99d862b7d0.png)
+![image](https://user-images.githubusercontent.com/1538969/220077556-416ea4b4-31d2-43b9-a37e-8d3f3e652b6d.png)
+![image](https://user-images.githubusercontent.com/1538969/220077590-c8345aaa-bc00-459b-8f0d-e85adaca1b07.png)
+
+# Known bugs
+
+Some translation got cut off, so it might not mean anything, report/feedback if you encounter something you need to understand to proceed, will try to include in the next patch when I have time
 
 # Feedbacks
 
