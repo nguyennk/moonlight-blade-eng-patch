@@ -4,7 +4,7 @@ Currently only work for Taiwan version
 
 # How to install?
 
-Download the latest patch from release section https://github.com/nguyennk/moonlight-blade-eng-patch/releases
+Download the latest patch from [Release](https://github.com/nguyennk/moonlight-blade-eng-patch/releases) section
 
 Make copy of TableBin.sfc and UI-TW.sfc for restore purpose later
 
