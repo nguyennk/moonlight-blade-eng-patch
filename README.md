@@ -2,6 +2,19 @@
 
 Currently only work for Taiwan version
 
+# How did I translate it?
+
+There are a lot of what I called "restriction" got put in place since this is Unoffical translation.
+
+1. First I unpack the file from the client (TableBin.sfc and UI-TW.sfc)
+2. TableBin is responsible for all the translation copy while UI-TW is for the font file
+3. Because there a size restriction from the file checking from the game client, here are the restriction that I figured:
+- Each of the file's size in TableBin.sfc need to be the same after the translation
+- Each of the string length (in bytes) in those file need to be the same after translation
+- The location of variable (%s, %d, {0}, {1}) in those file need to be the same (in bytes index) after the translation
+4. Due to those restriction, I cannot just "translate" and done, need to manipulate a lot of stuff (size, bytes, font) to make this happen
+5. The result is not perfect, but at least "usable" I guess, unless I can get some green light from the publisher / game dev and lift the size restriction, this is what we need to live on atm :D
+
 # How to install?
 
 Download the latest patch from [Release](https://github.com/nguyennk/moonlight-blade-eng-patch/releases) section
