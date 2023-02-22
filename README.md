@@ -1,6 +1,6 @@
 # English patch for Moonlight Blade Game
 
-Currently only work for Taiwan version
+Currently only work for Taiwan version, will prob die when new version come out, will try to keep up with it while I still playing :D
 
 # How did I translate it?
 
