@@ -2,6 +2,8 @@
 
 Currently only work for Taiwan version, will prob die when new version come out, will try to keep up with it while I still playing :D
 
+Update: Currently not playing the game anymore so I don't think I will keep this update, the player base just not worth the effort to keep this up :D
+
 # How did I translate it?
 
 There are a lot of what I called "restriction" got put in place since this is Unoffical translation.
